@@ -51,36 +51,16 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - school: SMA Negeri 5 Surabaya
-      university: University of London
+    - university: SMA Negeri 5 Surabaya
       time: 2013 - 2016
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
-
-    - school: SMP Negeri 1 Surabaya
+    - university: SMP Negeri 1 Surabaya
       time: 2010 - 2013
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
     - role: Koordinator Manager
       time: 2018 - Present
-      company: Unit Robotika ITB
-      
+      company: Unit Robotika ITB   
     - role: Master of Ceremony
       time: 2018 - Present
       company: Tim Protokoler ITB
