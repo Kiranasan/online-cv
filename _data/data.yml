@@ -29,16 +29,12 @@ sidebar:
       - idiom: Indonesian
         level: Professional
 
-    interests:
-      - item: Music
-        link:
-
-      - item: Movies
-        link:
-
-      - item: Cooking
-        link:
-
+interests:
+    title: Hobbies &amp; Interests
+    summary: 
+    I have an interest in my major especially in radar instrumentations because I I like to spend my free time with watching movies or listening to pop/rock music, 
+    and sometimes going a trip with my friends to explore Bandung and its surroundings. 
+    
 career-profile:
     title: Profile
     summary:
