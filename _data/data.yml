@@ -24,7 +24,7 @@ sidebar:
         level: Native
 
       - idiom: French
-        level: Professional
+        level: Newbie
 
       - idiom: Indonesian
         level: Professional
@@ -51,9 +51,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
+    - school: SMA Negeri 5 Surabaya
       university: University of London
-      time: 2011 - 2012
+      time: 2013 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -64,9 +64,8 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - school: SMP Negeri 1 Surabaya
+      time: 2010 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,118 +77,78 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+    - role: Koordinator Manager
+      time: 2018 - Present
+      company: Unit Robotika ITB
+      
+    - role: Master of Ceremony
+      time: 2018 - Present
+      company: Tim Protokoler ITB
+      
+    - role: Anggota Protokoler
+      time: 2017 - Present
+      company: Tim Protokoler ITB   
+      
+    - role: Anggota Divisi Telemetri
+      time: 2017 - Present
+      company: Tim Dago Atmosfera ITB
+      
+    - role: Sekretars Jendral
+      time: 2018
+      company: Studi Pengenalan Keilmuan Keluarga Signum
+      
+    - role: Koordinator Lapangan Wisuda Oktober
+      time: 2018
+      company: IMT 'Signum' ITB
+      
+    - role: PJS Departemen Eksternal
+      time: 2018
+      company: IMT 'Signum' ITB
 
-          - Bullet point
-          - Bullet point
+    - role: Ketua Divisi LO Wisuda Juli
+      time: 2018
+      company: IMT 'Signum' ITB
+      
+    - role: Manager Keberangkatan KRI Nasional
+      time: 2018
+      company: Unit Robotika ITB
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - role: Ketua Divisi Acara Sekolah URO
+      time: 2018
+      company: Unit Robotika ITB
+      
+    - role: Anggota Divisi Keamanan
+      time: 2017
+      company: OSKM ITB     
+    
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+    title: Project
     assignments:
-      - title: Velocity
+      - title: UPS Project
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "An electrical apparatus that provides emergency power to a load when the input power source or mains power fails, 
+        worked in this UPS project together with my seniors in 2018."
+        
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: HFSS ANSYS
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Adaptability
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Socialize
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Time Management
+        level: 80%
+
+      - name: Sketch & Painting
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
