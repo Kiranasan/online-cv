@@ -27,11 +27,18 @@ sidebar:
       - idiom: English
         level: Native 
         
-    Hobbies &amp; interest:
-      - cooking
-      - travelling
-      - music
-      - movies
+    interests:
+      - item: Music
+        link:
+
+      - item: Movies
+        link:
+
+      - item: Touring
+        link:
+        
+      - item: Cooking
+        link:
     
     
 career-profile:
@@ -41,7 +48,7 @@ career-profile:
         Not too dependent on others because I've told since I was kid that a girl must be brave and independent.
         
 career-profile:
-    title: Profile
+    title: Pr
     summary: |
         I am a girl who mostly spend my time with my friends and get involved in organization. An active person but easily get bored so I like to try a new thing.
         Not too dependent on others because I've told since I was kid that a girl must be brave and independent.
